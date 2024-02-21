@@ -52,5 +52,5 @@
 #utils
 
 export const urlPoke = `${import.meta.env.VITE_API_URL}`; 
-aqui desde utils se guarda la variable de entorno debe crearse 
+aqui desde utils se guarda la variable de entorno 
 https://pokeapi.co/api/v2
