@@ -48,3 +48,9 @@
 -PokemonCard.tsx
 -PokemonCardItem.tsx
 -SpinnerCardPokemon.tsx
+
+#utils
+
+export const urlPoke = `${import.meta.env.VITE_API_URL}`; 
+aqui desde utils se guarda la variable de entorno debe crearse 
+https://pokeapi.co/api/v2
